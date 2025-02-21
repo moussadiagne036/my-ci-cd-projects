@@ -1,0 +1,24 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moussadiagne036/projet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moussadiagne036/projet/issues"
+  },
+  "homepage": "https://github.com/moussadiagne036/projet#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0"
+  }
+}
